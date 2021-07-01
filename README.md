@@ -6,8 +6,6 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Notes
 
-### For detailed interview-ready notes on all courses in the Coursera Deep Learning specialization, refer [www.aman.ai](https://aman.ai/).
-
 ## Cloning Instructions
 
 1. `git-lfs` is used to handle large dataset files in this repo. As such, please make sure `git-lfs` is installed before cloning this repo. 
